@@ -90,6 +90,11 @@ driver.quit();
 ```
 
 ## Kết quả
+![image](https://github.com/user-attachments/assets/3ab5e9d2-fcef-4a4b-a116-13fccdf7f592)
 
+### Trang Login
+![image](https://github.com/user-attachments/assets/7b90ea08-76d8-43a5-9a81-50884d8ce8d3)
+### Trang Dashboard
+![image](https://github.com/user-attachments/assets/912b4011-1c37-4601-af05-54077c0ec93b)
 
 Link lịch sử ChatGPT: **```https://chatgpt.com/share/67867a15-97b0-800c-9594-4a5f483191c9```**
