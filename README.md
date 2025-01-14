@@ -60,8 +60,6 @@ Chạy câu lệnh sau để chạy kiểm thử:
 mvn test
 ```
 
-- Kiểm tra kết quả: Báo cáo kiểm thử sẽ được xuất ra màn hình hoặc thư mục ```target/surefire-reports```
-
 ## Tổng quan mã nguồn
 Dự án này sử dụng Selenium WebDriver và TestNG để tự động hoá kiểm thử chức năng đăng nhập của trang OrangeHRM. Dưới đây là các thành phần chính của mã kiểm thử;
 ### 1. Khởi tạo kiểm thử
