@@ -55,8 +55,7 @@ mvn clean install
 ```
 
 ### 2. Chạy kiểm thử
-Sử dụng JUnit để chạy các trường hợp kiểm thử:
-- Chạy kiểm thử:
+Chạy câu lệnh sau để chạy kiểm thử:
 ```
 mvn test
 ```
