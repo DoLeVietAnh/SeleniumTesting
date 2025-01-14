@@ -3,16 +3,6 @@
 # Kiểm thử tự động chức năng đăng nhập OrangeHRM
 ## Giới thiệu
 Dự án này kiểm thử tự động chức năng đăng nhập cho ứng dụng demo OrangeHRM sử dụng **Selenium WebDriver** và **TestNG**.
-
-## Chức năng
-- Tìm kiếm giá trị trong cây nhị phân
-- Hỗ trợ các tình huống đặc biệt như:
-    - Cây rỗng.
-    - Cây chỉ có một nút.
-    - Cây không cân bằng.
-    - Cây có giá trị trùng lặp.
-    - Cây chứa giá trị âm.
-
 ## Cấu trúc dự án
 
     ├── src/
@@ -98,5 +88,8 @@ Assert.assertEquals(actualResult, expectedResult);
 ```java
 driver.quit();
 ```
+
+## Kết quả
+
 
 Link lịch sử ChatGPT: **```https://chatgpt.com/share/67867a15-97b0-800c-9594-4a5f483191c9```**
