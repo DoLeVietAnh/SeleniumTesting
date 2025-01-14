@@ -1,6 +1,6 @@
 Đỗ Lê Việt Anh - BIT220014 - 22SE1
 
-# OrangeHRM Login Test Automation
+# Kiểm thử tự động chức năng đăng nhập OrangeHRM
 ## Giới thiệu
 Dự án này kiểm thử tự động chức năng đăng nhập cho ứng dụng demo OrangeHRM sử dụng **Selenium WebDriver** và **TestNG**.
 
