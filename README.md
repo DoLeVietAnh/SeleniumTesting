@@ -18,7 +18,7 @@ Dự án này kiểm thử tự động chức năng đăng nhập cho ứng d�
     ├── src/
     │   ├── test/
     │   │   ├── java/
-    │   │          └── OrangeLoginTest.java  # Các trường hợp kiểm thử JUnit
+    │   │          └── OrangeLoginTest.java  # Kiểm thử tự động
     ├── README.md                              # Tệp tài liệu dự án
     └── pom.xml                                # Tệp cấu hình Maven
 
